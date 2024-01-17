@@ -26,6 +26,4 @@ if(nivelDeFome === 1){
     console.log("pouca fome")
 }else if (nivelDeFome === 2){
     console.log("muita fome")
-}else(nivelDeFome === 3){
-    console.log("morrendo de fome")
 }
